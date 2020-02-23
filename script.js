@@ -1,4 +1,4 @@
-onst COMMANDS = {
+const COMMANDS = {
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">contact</span>',
   about:
